@@ -11,7 +11,7 @@ I am currently pursuing my Master of Science in *Computer Science and Engineerin
 * :writing_hand: mathematical and physics olympiads streghtend my interest in problem solving
 * :computer: I fell in love with computer science during high school, I was intrigued by its limitless applications
 * :de: at the end of my first year at University of Pisa, I did an internship at Max Planck for Intelligent Systems in Stuttgart working on object detection
-* ::mechanical_arm:: during my third year at University of Pisa, I did an internship at the Biorobotic Institute of Sant'Anna School of advanced studies working on I-Support Horizon 2020 project involving a robotic arm
+* :mechanical_arm: during my third year at University of Pisa, I did an internship at the Biorobotic Institute of Sant'Anna School of advanced studies working on I-Support Horizon 2020 project involving a robotic arm
 * :hearts: I fell in love with Deep Learning after working at my  after working on achelor thesis on **Text generation with Deep Neural Networks** 
 * :airplane: I moved to Milan and started studying at Politecnico di Milano, focusing on **Machine Learning** and **Artificial Intelligence**
 
