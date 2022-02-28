@@ -17,7 +17,7 @@ I am currently pursuing my Master of Science in *Computer Science and Engineerin
 
 ### About me
 
-* :film_projector: Ex tv series addicted, Breaking Bad is my all time favourite
+* :film_projector: Ex tv series addicted, Silicon Valley is my favourite
 * :muscle: I like to go to the gym and have an healty diet
 * :airplane: travelling is one of the things I love
 * :zap: sport is another thing I love, especially if they involve team work
