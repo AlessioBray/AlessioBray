@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessio-bray-849727133/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alessio.bray@gmail.com)
 
-I am currently pursuing my Master of Science in *Computer Science and Engineering* at Politecnico di Milano. Over the last few years, I have dedicated my time to learn everything I could about **Machine Learning** and **Artificial Intelligence**, working on some projects. Now I am looking forward to find the opportunity to apply my skills in a stimulating environment. In particular I am looking for a research project to work on for my thesis, to further extend my knowledge in my study field. 
+I am an italian student currently pursuing a Master of Science in *Computer Science and Engineering* at Politecnico di Milano. Over the last few years, I have dedicated my time to learn everything I could about **Machine Learning** and **Artificial Intelligence**, working on some projects. Now I am looking forward to find the opportunity to apply my skills in a stimulating environment. In particular I am looking for a research project to work on for my thesis, to further extend my knowledge in my study field. 
 
 ### My path in computer science
 
